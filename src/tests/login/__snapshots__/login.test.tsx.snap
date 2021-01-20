@@ -1,0 +1,258 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Login-> Login snapshot test 1`] = `
+<div
+  className="makeStyles-root-2"
+>
+  <div
+    style={
+      Object {
+        "padding": 20,
+        "textAlign": "center",
+      }
+    }
+  >
+    <div
+      className="MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-4"
+    >
+      <div
+        className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-2 MuiGrid-grid-md-2 MuiGrid-grid-lg-2"
+      >
+        <img
+          alt=""
+          src="logo.png"
+          style={
+            Object {
+              "height": "80px",
+            }
+          }
+        />
+      </div>
+      <div
+        className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-10 MuiGrid-grid-md-10 MuiGrid-grid-lg-10"
+        style={
+          Object {
+            "color": "#333333",
+            "fontFamily": "Helvetica Neue",
+            "margin": "55px 0 0 -4px",
+          }
+        }
+      >
+        <span
+          style={
+            Object {
+              "fontSize": 24,
+            }
+          }
+        >
+          ORIGIN HEALTH VAULT
+        </span>
+        <sup>
+          TM
+        </sup>
+      </div>
+    </div>
+  </div>
+  <div
+    className="MuiPaper-root MuiCard-root makeStyles-cardRoot-1 MuiPaper-elevation3 MuiPaper-rounded"
+  >
+    <div
+      className="MuiCardContent-root"
+    >
+      <p
+        className="MuiTypography-root MuiTypography-h6"
+        style={
+          Object {
+            "marginBottom": "-10px",
+            "padding": "20px 0",
+          }
+        }
+      >
+        Username
+      </p>
+      <div
+        className="MuiFormControl-root MuiTextField-root MuiFormControl-fullWidth"
+        data-test-id="username"
+        style={
+          Object {
+            "color": "#000",
+          }
+        }
+      >
+        <div
+          className="MuiInputBase-root MuiOutlinedInput-root MuiInputBase-fullWidth MuiInputBase-formControl MuiInputBase-marginDense MuiOutlinedInput-marginDense"
+          onClick={[Function]}
+        >
+          <input
+            aria-invalid={false}
+            autoFocus={true}
+            className="MuiInputBase-input MuiOutlinedInput-input MuiInputBase-inputMarginDense MuiOutlinedInput-inputMarginDense"
+            disabled={false}
+            id="username"
+            onAnimationStart={[Function]}
+            onBlur={[Function]}
+            onChange={[Function]}
+            onFocus={[Function]}
+            required={false}
+            type="text"
+            value=""
+          />
+          <fieldset
+            aria-hidden={true}
+            className="PrivateNotchedOutline-root-5 MuiOutlinedInput-notchedOutline"
+            style={
+              Object {
+                "paddingLeft": 8,
+              }
+            }
+          >
+            <legend
+              className="PrivateNotchedOutline-legend-6"
+              style={
+                Object {
+                  "width": 0.01,
+                }
+              }
+            >
+              <span
+                dangerouslySetInnerHTML={
+                  Object {
+                    "__html": "&#8203;",
+                  }
+                }
+              />
+            </legend>
+          </fieldset>
+        </div>
+      </div>
+      <p
+        className="MuiTypography-root MuiTypography-h6"
+        style={
+          Object {
+            "marginBottom": "-15px",
+            "padding": "20px 0",
+          }
+        }
+      >
+        Password
+      </p>
+      <div
+        className="MuiFormControl-root MuiTextField-root MuiFormControl-fullWidth"
+        data-test-id="password"
+      >
+        <div
+          className="MuiInputBase-root MuiOutlinedInput-root MuiInputBase-fullWidth MuiInputBase-formControl MuiInputBase-marginDense MuiOutlinedInput-marginDense"
+          onClick={[Function]}
+        >
+          <input
+            aria-invalid={false}
+            autoFocus={false}
+            className="MuiInputBase-input MuiOutlinedInput-input MuiInputBase-inputMarginDense MuiOutlinedInput-inputMarginDense"
+            disabled={false}
+            id="password"
+            onAnimationStart={[Function]}
+            onBlur={[Function]}
+            onChange={[Function]}
+            onFocus={[Function]}
+            required={false}
+            type="password"
+            value=""
+          />
+          <fieldset
+            aria-hidden={true}
+            className="PrivateNotchedOutline-root-5 MuiOutlinedInput-notchedOutline"
+            style={
+              Object {
+                "paddingLeft": 8,
+              }
+            }
+          >
+            <legend
+              className="PrivateNotchedOutline-legend-6"
+              style={
+                Object {
+                  "width": 0.01,
+                }
+              }
+            >
+              <span
+                dangerouslySetInnerHTML={
+                  Object {
+                    "__html": "&#8203;",
+                  }
+                }
+              />
+            </legend>
+          </fieldset>
+        </div>
+      </div>
+      <br />
+      <br />
+      <div
+        style={
+          Object {
+            "textAlign": "center",
+          }
+        }
+      >
+        <button
+          className="MuiButtonBase-root MuiButton-root MuiButton-contained makeStyles-customButton-3 MuiButton-disableElevation"
+          data-test-id="loginButton"
+          disabled={false}
+          onBlur={[Function]}
+          onClick={[Function]}
+          onDragLeave={[Function]}
+          onFocus={[Function]}
+          onKeyDown={[Function]}
+          onKeyPress={[Function]}
+          onKeyUp={[Function]}
+          onMouseDown={[Function]}
+          onMouseLeave={[Function]}
+          onMouseUp={[Function]}
+          onTouchEnd={[Function]}
+          onTouchMove={[Function]}
+          onTouchStart={[Function]}
+          style={
+            Object {
+              "marginBottom": "30px",
+            }
+          }
+          tabIndex={0}
+          type="button"
+        >
+          <span
+            className="MuiButton-label"
+          >
+            <p
+              className="MuiTypography-root MuiTypography-h6"
+            >
+              <span
+                style={
+                  Object {
+                    "padding": "2px 5px 0 5px",
+                    "textTransform": "capitalize",
+                  }
+                }
+              >
+                Login
+              </span>
+            </p>
+          </span>
+        </button>
+        <br />
+        <br />
+        <span
+          className="MuiTypography-root MuiTypography-subtitle2"
+          onClick={[Function]}
+        >
+          <span
+            className="makeStyles-passwordResetLink-4"
+          >
+            Request password reset
+          </span>
+        </span>
+      </div>
+    </div>
+  </div>
+</div>
+`;
